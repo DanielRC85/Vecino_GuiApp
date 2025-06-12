@@ -90,9 +90,7 @@ vecino_guiapp/
 
 ---
 
-## ✨ Mejoras realizadas
-
-- Selector de tema oscuro / claro y paleta de colores pastel.
+## ✨ Proximas mejoras
 - Integración de notificaciones vecinales.
 - Interfaz para administrar servicios comunitarios.
 
